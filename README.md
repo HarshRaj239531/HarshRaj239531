@@ -38,9 +38,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/harsh-raj239531" target="blank">
+<a href="https://www.linkedin.com/in/
+harsh-raj239531" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
 
 <a href="https://leetcode.com/u/HarshRaj-239531/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
