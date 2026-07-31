@@ -14,7 +14,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,postgresql,dart,nextjs,python,docker,kubernetes,php,mysql,git,github,vscode" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
