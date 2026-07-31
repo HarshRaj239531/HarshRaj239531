@@ -157,8 +157,7 @@ Flutter • REST APIs
 <p align="center">
 
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRaj239531&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshRaj239531&layout=compact&theme=tokyonight"
 />
 
 </p>
